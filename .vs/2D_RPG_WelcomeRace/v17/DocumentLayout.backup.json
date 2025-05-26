@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{561B8F9D-D7E4-4610-30FB-4C427C1EF4F5}|Assembly-CSharp.csproj|c:\\users\\ko11s\\2d_rpg_welcomerace\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561B8F9D-D7E4-4610-30FB-4C427C1EF4F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561B8F9D-D7E4-4610-30FB-4C427C1EF4F5}|Assembly-CSharp.csproj|C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\assets\\scripts\\ui\\continueuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561B8F9D-D7E4-4610-30FB-4C427C1EF4F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\continueuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561B8F9D-D7E4-4610-30FB-4C427C1EF4F5}|Assembly-CSharp.csproj|c:\\users\\ko11s\\2d_rpg_welcomerace\\assets\\scripts\\player\\playerdeadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561B8F9D-D7E4-4610-30FB-4C427C1EF4F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerdeadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561B8F9D-D7E4-4610-30FB-4C427C1EF4F5}|Assembly-CSharp.csproj|c:\\users\\ko11s\\2d_rpg_welcomerace\\assets\\scripts\\ui\\gameovercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561B8F9D-D7E4-4610-30FB-4C427C1EF4F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gameovercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561B8F9D-D7E4-4610-30FB-4C427C1EF4F5}|Assembly-CSharp.csproj|C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\assets\\scripts\\ui\\savepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561B8F9D-D7E4-4610-30FB-4C427C1EF4F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\savepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561B8F9D-D7E4-4610-30FB-4C427C1EF4F5}|Assembly-CSharp.csproj|C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\assets\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561B8F9D-D7E4-4610-30FB-4C427C1EF4F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561B8F9D-D7E4-4610-30FB-4C427C1EF4F5}|Assembly-CSharp.csproj|C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\assets\\scripts\\ui\\gameclearmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561B8F9D-D7E4-4610-30FB-4C427C1EF4F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gameclearmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561B8F9D-D7E4-4610-30FB-4C427C1EF4F5}|Assembly-CSharp.csproj|C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\assets\\scripts\\player\\playermovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561B8F9D-D7E4-4610-30FB-4C427C1EF4F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T02:12:52.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameOverCheck.cs",
+              "DocumentMoniker": "C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\Assets\\Scripts\\UI\\GameOverCheck.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameOverCheck.cs",
+              "ToolTip": "C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\Assets\\Scripts\\UI\\GameOverCheck.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameOverCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T01:57:35.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerDeadState.cs",
+              "DocumentMoniker": "C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\Assets\\Scripts\\Player\\PlayerDeadState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerDeadState.cs",
+              "ToolTip": "C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\Assets\\Scripts\\Player\\PlayerDeadState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerDeadState.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T01:50:41.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContinueUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\Assets\\Scripts\\UI\\ContinueUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ContinueUIManager.cs",
+              "ToolTip": "C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\Assets\\Scripts\\UI\\ContinueUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ContinueUIManager.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAcwLQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:06:36.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\Assets\\Scripts\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\Assets\\Scripts\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerStats.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:14:20.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Savepoint.cs",
+              "DocumentMoniker": "C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\Assets\\Scripts\\UI\\Savepoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Savepoint.cs",
+              "ToolTip": "C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\Assets\\Scripts\\UI\\Savepoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Savepoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:15:02.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerMoveState.cs",
+              "DocumentMoniker": "C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\Assets\\Scripts\\Player\\PlayerMoveState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMoveState.cs",
+              "ToolTip": "C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\Assets\\Scripts\\Player\\PlayerMoveState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMoveState.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:40:36.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameClearManager.cs",
+              "DocumentMoniker": "C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\Assets\\Scripts\\UI\\GameClearManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameClearManager.cs",
+              "ToolTip": "C:\\Users\\ko11s\\2D_RPG_WelcomeRace\\Assets\\Scripts\\UI\\GameClearManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameClearManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:37:37.119Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
